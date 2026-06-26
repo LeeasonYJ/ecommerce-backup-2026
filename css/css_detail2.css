@@ -8,7 +8,7 @@
         
         body{background: #fff; width: 100%;}
         .wrap1{width: 100%;min-width: 1440px;}
-        .wrap2 {max-width: 1920px; width: 100%; margin: auto; position: relative; min-width: 1440px; top: 120px;}
+        .wrap2 {max-width: 1820px; width: 100%; margin: auto; position: relative; min-width: 1440px; top: 120px;}
 
         /* wrap1 */
         .up-banner{width: 100%; height: 50px; background: #004a62; overflow: hidden; display: flex; align-items: center; padding: 0 20px;}
@@ -128,7 +128,7 @@
 
 
 /* wrap3 */
-        .wrap3 {position: relative; top: 200px; max-width: 1920px; width: 100%; margin: auto; min-width: 1440px;}
+        .wrap3 {position: relative; top: 200px; max-width: 1820px; width: 100%; margin: auto; min-width: 1440px;}
 
 .alsoview{width: 100%;}
     .alsoview-title{height: 100px; width: 100%;}
